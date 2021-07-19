@@ -1,0 +1,1 @@
+rule.py:用非機器學習的方式寫出能夠執行遊戲的程式。train.ipynb:將rule得出來的pickle檔利用機器學習的方式訓練出新的model。my_play.py:透過機器學的方式來進行遊戲。
