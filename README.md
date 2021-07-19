@@ -1,4 +1,4 @@
-code 是方便看到自己寫的程式碼，要進行遊戲要使用MLGame_master。
+code 是讓老師們方便看到我自己寫的程式碼，要進行遊戲要使用MLGame_master。
 
 遊戲環境以及怎麼打開遊戲都在MLGame_master的README內有非常完整的介紹。
 
