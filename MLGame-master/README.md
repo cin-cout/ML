@@ -66,7 +66,9 @@ In default, the game is executed in the machine learning mode. You could play th
 In the machine learning mode, you have to provide the script to play the game, which is put in the `games/<game_name>/ml` directory. For example, if there is a file `ml_play.py` in the `games/arkanoid/ml` directory, by specifying the `-i ml_play.py` in the command to use that file to play the game `arkanoid`.
 
 rule.py:用非機器學習的方式寫出能夠執行遊戲的程式。
+
 train.ipynb:將rule得出來的pickle檔利用機器學習的方式訓練出新的model。
+
 my_play.py:透過機器學的方式來進行遊戲。
 
 ### Read Instruction
