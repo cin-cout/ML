@@ -1,15 +1,39 @@
-code 是讓老師們方便看到我自己寫的程式碼，要進行遊戲要使用MLGame_master。
+# Machine-learning-Games
+
+Implemented several games by designing the rules, and training the ML models to pass the games through repeatedly modifying the rule. 
+
+There have 3 different games in the MLGame-master:
+
+* arkanoid
+
+* pingpong
+
+* snake
 
 
-遊戲環境以及怎麼打開遊戲都在MLGame_master的README內有非常完整的介紹。
+## Building and Usage
 
 
-為了快速節省時間可以快速輸入以下指令進行遊戲
+See the README in the MLGame-master and file of each game, such as Machine-learning-Games/MLGame-master/games/arkanoid/. It will teach you how to build the environment and run the game in different way in detail. 
 
-1.將終端機目錄切換到MLGame_master。
+## See want I did
+Implemented several games by designing the rules, and training the ML models to pass the games through repeatedly modifying the rule. 
 
-2.輸入指令：
+The program is at the following place:
+* Machine-learning-Games/MLGame-master/games/arkanoid/ml/
+* Machine-learning-Games/MLGame-master/games/pingpong/ml/
+* Machine-learning-Games/MLGame-master/games/snake/ml/
+
+
+## Shortcut
+
+If you want to see the result quickly, follow the steps bellow.(You might install the module first such as Python, Pygame, Pickle)
+
+```
+cd MLGame_maste
+```
 
 ```
 python MLGame.py -f 200 -i ml_play.py -i ml_play.py pingpong HARD 5
 ```
+
