@@ -1,6 +1,6 @@
 # Machine-learning-Games
 
-Implemented several games by designing the rules, and training the ML models to pass the games through repeatedly modifying the rule. 
+Implement several games by designing the rules, and training the ML models to pass the games through repeatedly modifying the rule. 
 
 There have 3 different games in the MLGame-master:
 
@@ -17,9 +17,9 @@ There have 3 different games in the MLGame-master:
 See the README in the MLGame-master and file of each game, such as Machine-learning-Games/MLGame-master/games/arkanoid/. It will teach you how to build the environment and run the game in different way in detail. 
 
 ## See want I did
-Implemented several games by designing the rules, and training the ML models to pass the games through repeatedly modifying the rule. 
+Design the rules, and train the ML models to pass the games through repeatedly modifying the rule. 
 
-The program is at the following place:
+The following are the places my programs at:
 * Machine-learning-Games/MLGame-master/games/arkanoid/ml/
 * Machine-learning-Games/MLGame-master/games/pingpong/ml/
 * Machine-learning-Games/MLGame-master/games/snake/ml/
